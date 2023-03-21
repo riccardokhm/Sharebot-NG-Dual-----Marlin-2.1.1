@@ -3,7 +3,7 @@
 ## Description
 This repository has been created to share my current implementation of Marlin 2.1.1 for Sharebot NG Dual. I added a custom menu with test bed leveling and a generalized preheat for the Sharebot NG: I fine-tuned the values related to acceleration, temperature and all the hardware on the original setup of the printer.
 
-![Alt text](Setup images/IMG_9662.jpg)
+![Alt text](/Setup images/IMG_9662.jpg)
 
 ## Hardware
 Controller:Bigtreetech SKR PRO v1.2 [here](https://biqu.equipment/products/bigtreetech-skr-pro-v1-1-32-bit-control-board?variant=29207358865506)
