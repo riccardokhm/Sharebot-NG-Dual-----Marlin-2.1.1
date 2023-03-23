@@ -1,7 +1,7 @@
 # Sharebot-NG-Dual---Marlin-2.1.1
 
 ## Description
-This repository has been created to share my current implementation of Marlin 2.1.1 for Sharebot NG Dual. I added a custom menu with test bed leveling and a generalized preheat for the Sharebot NG: I fine-tuned the values related to acceleration, temperature and all the hardware on the original setup of the printer.
+This repository has been created to share my current implementation of Marlin 2.1.1 for Sharebot NG Dual. I added a custom menu with test bed leveling and a generalized preheat option for the Sharebot NG: I fine-tuned the values related to acceleration, temperature and all the hardware on the original setup of the printer.
 
 <p align="center"> 
   <img  src="https://github.com/riccardokhm/Sharebot-NG-Dual-----Marlin-2.1.1/blob/master/Setup%20images/IMG_9662.jpg">
